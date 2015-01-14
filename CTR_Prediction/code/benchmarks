@@ -1,0 +1,44 @@
+> pypy fast_solution_abpw_working.py
+2014-12-07 05:28:53.590715	encountered: 1000000	current logloss: 0.377616  alpha 0.118519
+2014-12-07 05:28:58.896342	encountered: 2000000	current logloss: 0.377382  alpha 0.117073
+2014-12-07 05:29:03.290043	encountered: 3000000	current logloss: 0.391458  alpha 0.115663
+2014-12-07 05:29:07.725696	encountered: 4000000	current logloss: 0.396568  alpha 0.114286
+2014-12-07 05:29:12.053299	encountered: 5000000	current logloss: 0.395916  alpha 0.112941
+2014-12-07 05:29:16.537411	encountered: 6000000	current logloss: 0.390984  alpha 0.111628
+2014-12-07 05:29:20.921525	encountered: 7000000	current logloss: 0.383060  alpha 0.110345
+2014-12-07 05:29:25.211124	encountered: 8000000	current logloss: 0.378229  alpha 0.109091
+2014-12-07 05:29:29.975640	encountered: 9000000	current logloss: 0.380988  alpha 0.107865
+2014-12-07 05:29:34.471855	encountered: 10000000	current logloss: 0.384004  alpha 0.106667
+2014-12-07 05:29:38.953672	encountered: 11000000	current logloss: 0.386283  alpha 0.105495
+2014-12-07 05:29:43.268540	encountered: 12000000	current logloss: 0.390539  alpha 0.104348
+2014-12-07 05:29:48.031186	encountered: 13000000	current logloss: 0.391645  alpha 0.103226
+2014-12-07 05:29:52.625682	encountered: 14000000	current logloss: 0.392283  alpha 0.102128
+2014-12-07 05:29:58.287435	encountered: 15000000	current logloss: 0.393038  alpha 0.101053
+2014-12-07 05:30:03.114379	encountered: 16000000	current logloss: 0.394187  alpha 0.100000
+2014-12-07 05:30:07.785007	encountered: 17000000	current logloss: 0.393365  alpha 0.098969
+2014-12-07 05:30:12.499784	encountered: 18000000	current logloss: 0.394261  alpha 0.097959
+2014-12-07 05:30:22.609318	encountered: 19000000	current logloss: 0.395575  alpha 0.096970
+2014-12-07 05:30:26.999825	encountered: 20000000	current logloss: 0.395898  alpha 0.096000
+2014-12-07 05:30:33.586430	encountered: 21000000	current logloss: 0.397284  alpha 0.095050
+2014-12-07 05:30:44.567601	encountered: 22000000	current logloss: 0.397780  alpha 0.094118
+2014-12-07 05:30:52.131603	encountered: 23000000	current logloss: 0.398594  alpha 0.093204
+2014-12-07 05:30:57.722190	encountered: 24000000	current logloss: 0.398675  alpha 0.092308
+2014-12-07 05:31:08.284157	encountered: 25000000	current logloss: 0.399082  alpha 0.091429
+2014-12-07 05:31:13.077253	encountered: 26000000	current logloss: 0.399523  alpha 0.090566
+2014-12-07 05:31:17.717793	encountered: 27000000	current logloss: 0.399106  alpha 0.089720
+2014-12-07 05:31:23.671585	encountered: 28000000	current logloss: 0.398838  alpha 0.088889
+2014-12-07 05:31:28.255640	encountered: 29000000	current logloss: 0.396940  alpha 0.088073
+2014-12-07 05:31:54.423163	encountered: 30000000	current logloss: 0.395763  alpha 0.087273
+2014-12-07 05:32:15.944007	encountered: 31000000	current logloss: 0.394710  alpha 0.086486
+2014-12-07 05:32:29.764132	encountered: 32000000	current logloss: 0.393302  alpha 0.085714
+2014-12-07 05:32:34.772269	encountered: 33000000	current logloss: 0.392513  alpha 0.084956
+2014-12-07 05:32:39.705098	encountered: 34000000	current logloss: 0.391573  alpha 0.084211
+2014-12-07 05:32:45.296787	encountered: 35000000	current logloss: 0.390904  alpha 0.083478
+2014-12-07 05:32:50.063633	encountered: 36000000	current logloss: 0.390520  alpha 0.082759
+2014-12-07 05:32:54.618685	encountered: 37000000	current logloss: 0.389703  alpha 0.082051
+2014-12-07 05:32:59.230063	encountered: 38000000	current logloss: 0.389724  alpha 0.081356
+2014-12-07 05:33:05.028486	encountered: 39000000	current logloss: 0.389653  alpha 0.080672
+2014-12-07 05:33:09.508147	encountered: 40000000	current logloss: 0.390411  alpha 0.080000
+
+berst so far
+0.394643
